@@ -1,4 +1,5 @@
 # Cryptocurrency Viewer
+![Image](./CryptoView.jpeg)
 
 Cryptocurrency Viewer is a simple application that allows users to view real-time information about various cryptocurrencies.
 
@@ -13,3 +14,4 @@ Cryptocurrency Viewer is a simple application that allows users to view real-tim
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/CPAD2023/CPAD2023SecBTeam15.git
+
